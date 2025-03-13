@@ -4,7 +4,7 @@ Date: March 12, 2025
 Objective: Predict the median house price in California using available housing features.
 
 ## 🌟 Project Introduction
-Welcome to the "California Housing Price Prediction" project. This initiative uses advanced machine learning techniques to predict housing prices in California based on specific features like median income and average number of rooms, leveraging the California Housing Dataset.
+Welcome to the "California Housing Price Prediction" project. This initiative uses advanced machine learning techniques to predict housing prices in California based on specific features like median income and average number of rooms, leveraging the California Housing Dataset. This project applies Linear Regression to predict housing prices based on two key features from the California Housing Dataset (provided by Scikit-learn).The dataset contains various housing-related attributes, including income levels and the number of rooms per household.
 
 ## 🚀 Quick Start
 To get started with this project, clone the repository and install the necessary dependencies:
