@@ -1,4 +1,4 @@
-# California Housing Price Prediction
+# California Housing Price Prediction (Applied Machine Laerning)
 Author: Adeyemi Toba
 Date: March 12, 2025
 Objective: Predict the median house price in California using available housing features.
