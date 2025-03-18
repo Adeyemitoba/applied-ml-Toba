@@ -1,4 +1,4 @@
-# Titanic Survival Prediction - Lab 2
+# Titanic Survival Prediction - Lab2
 
 **Author:** Adeyemi Toba  
 **Date:** March 12, 2025  
