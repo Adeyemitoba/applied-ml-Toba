@@ -1,6 +1,6 @@
 # Lab 5: Ensemble Models for Wine Quality Prediction
 **Author:** Adeyemi Toba  
-**Date:** April 10, 2025
+**Date:** April 9, 2025
 
 ## 🎯 Objective
 This project applies ensemble machine learning models to predict the quality of red wine based on physicochemical characteristics. Ensemble models help improve accuracy and generalization compared to single-model approaches. Two models were chosen and compared: **Random Forest** and **Gradient Boosting**.
